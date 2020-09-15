@@ -59,3 +59,6 @@ lib/
 .settings/
 msbuild.binlog
 example/msbuild.binlog
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
